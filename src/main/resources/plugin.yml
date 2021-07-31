@@ -1,0 +1,9 @@
+name: ItemVoid
+version: ${project.version}
+main: me.youhavetrouble.itemvoid.ItemVoid
+api-version: 1.17
+authors: [ YouHaveTrouble ]
+website: youhavetrouble.me
+commands:
+  void:
+    description: opens void
